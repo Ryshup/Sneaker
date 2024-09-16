@@ -26,14 +26,13 @@ Here are some screenshots of the website:
 
 Watch the screen recording of the website:
 
-[Download or view the video](https://github.com/Ryshup/Sneaker/raw/main/sneakersmp_IyS7VOpF.mp4)
+[Download or view the video](https://github.com/Ryshup/Sneaker/raw/main/sneakermp.mp4)
 
 
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
 
 
 Thank you for checking out our Sneaker E-Commerce Website!
