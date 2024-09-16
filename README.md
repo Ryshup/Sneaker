@@ -13,20 +13,20 @@ Welcome to the Sneaker E-Commerce Website! This platform allows users to browse 
 
 Here are some screenshots of the website:
 
-![Homepage](.ss1.png)
+![Homepage](./ss1.png)
 *Homepage of the Sneaker E-Commerce Website*
 
-![About Us](./sneaker/ss2.png)
+![About Us](./ss2.png)
 *Detailed view of a product page*
 
-![Cart](./sneaker/ss3.png)
+![Cart](./ss3.png)
 *Shopping Cart*
 
 ## Screen Recording
 
 Watch a screen recording of the website in action:
 
-[![Watch the video](./sneaker/sneakersMP.)
+[![Watch the video](./sneakersmp_IyS7VOpF.)
 
 
 ## Contributing
