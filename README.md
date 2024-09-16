@@ -17,16 +17,16 @@ Here are some screenshots of the website:
 *Homepage of the Sneaker E-Commerce Website*
 
 ![About Us](./ss2.png)
-*Detailed view of a product page*
+*About Us Section*
 
 ![Cart](./ss3.png)
 *Shopping Cart*
 
 ## Screen Recording
 
-Watch a screen recording of the website in action:
+Watch the screen recording of the website:
 
-[![Watch the video](./sneakersmp_IyS7VOpF.)
+[Download or view the video](https://github.com/Ryshup/Sneaker/raw/main/sneakersmp_IyS7VOpF)
 
 
 ## Contributing
