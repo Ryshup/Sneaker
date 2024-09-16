@@ -40,7 +40,7 @@ No special software is required to run this website. All you need is a modern we
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Ryshup/Sneaker.git
 
 
 ## Contributing
