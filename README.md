@@ -13,7 +13,7 @@ Welcome to the Sneaker E-Commerce Website! This platform allows users to browse 
 
 Here are some screenshots of the website:
 
-![Homepage](./sneaker/ss1.png)
+![Homepage](.ss1.png)
 *Homepage of the Sneaker E-Commerce Website*
 
 ![About Us](./sneaker/ss2.png)
