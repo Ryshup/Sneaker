@@ -26,7 +26,7 @@ Here are some screenshots of the website:
 
 Watch the screen recording of the website:
 
-[Download or view the video](https://github.com/Ryshup/Sneaker/raw/main/sneakersmp_IyS7VOpF)
+[Download or view the video](https://github.com/Ryshup/Sneaker/raw/main/sneakersmp_IyS7VOpF.mp4)
 
 
 
