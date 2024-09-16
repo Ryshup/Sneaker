@@ -28,6 +28,19 @@ Watch the screen recording of the website:
 
 [Download or view the video](https://github.com/Ryshup/Sneaker/raw/main/sneakermp.mp4)
 
+## Running the Prototype
+
+To run the prototype of this website locally, follow these instructions:
+
+### Prerequisites
+
+No special software is required to run this website. All you need is a modern web browser (e.g., Google Chrome, Mozilla Firefox, Safari).
+
+### Steps to Run the Website
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
 
 
 ## Contributing
